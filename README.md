@@ -37,7 +37,7 @@
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
     }
 
-    .imovel img {
+    .imovel img {Allyson - RND 02 - Noite IA
       width: 100%; height: 180px; object-fit: cover;
     }
 
